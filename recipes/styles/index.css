@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+}
+.recipe{
+    color: red;
+    font-size: 500%;
+    font-weight: inherit;
+    font-style: italic;
+    text-align: center;
+}
+
+.options{
+    text-align: center;
+
+
+}
+
+.btn{
+    color: black;
+}
